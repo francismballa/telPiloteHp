@@ -1,0 +1,3 @@
+sp84712: https://ftp.hp.com/pub/softpaq/sp84501-85000/sp84712.exe
+
+sp87614: https://ftp.hp.com/pub/softpaq/sp87501-88000/sp87614.exe
